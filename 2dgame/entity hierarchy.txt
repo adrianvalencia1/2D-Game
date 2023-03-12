@@ -1,0 +1,8 @@
+		   Entity
+
+hitbox, 				camera			Tile
+	
+player, monster							statictile, animatedtile
+								
+	aimonster, staticmonster	
+		   animated, static,
